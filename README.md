@@ -1,4 +1,13 @@
 # Predictive-Load-Management-Device-For-Smart-Grid-Integration
+TEAM AZTEC 
+SWODESH SHARMA
+RACHANA SUBEDI
+SHASHWOT SHRESTHA
+SUSHILL PHUYAL
+
+
+
+
 ![Slide1](https://user-images.githubusercontent.com/70265297/211729540-fcb9b0e7-7bd8-4f9a-8f90-0690f921be84.JPG)
 ![Slide2](https://user-images.githubusercontent.com/70265297/211729549-c1ab83e4-4145-4008-b345-8db6f7a370ae.JPG)
 ![Slide3](https://user-images.githubusercontent.com/70265297/211729559-d5f33155-5293-460f-ba33-13f541120125.JPG)
