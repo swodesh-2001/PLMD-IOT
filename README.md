@@ -177,8 +177,7 @@ graph TD
 ### Prediction Demo
 
 ![demo](./images/demo.gif)
-
-https://user-images.githubusercontent.com/70265297/211731263-cf6aa78a-02fa-447f-be15-22387b881e76.mp4
+ 
 
 
 ### Load Scheduling
