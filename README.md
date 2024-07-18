@@ -203,8 +203,10 @@ flowchart TD
 - Simple and user-friendly IoT interface.
 - Used as basic energy meter.
 
-![Image](./images/slide_32_image_234.png)
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="./images/slide_32_image_234.png" alt="Image" style="width: 40%;"> 
+</div>
+ 
 
 ### How Energy Demand is Predicted
 
